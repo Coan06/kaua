@@ -1,0 +1,143 @@
+
+.foto{
+
+border-radius: 50%;
+height: 250px;
+width: 250px;
+margin-left: -100px;
+margin-bottom: -70px;
+
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+
+/* Cabeçalho */
+header {
+    display: flex;
+    background-color: #333;
+    color: #fff;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+
+
+ ul li {
+    display: inline;
+    margin:200px;
+    margin-left: 300px;
+ 
+}
+
+a {
+    color: #fff;
+    
+}
+
+
+
+
+/* Seções */
+section {
+    padding: 10px 5px;
+    max-width: 800px;
+    margin: auto;
+}
+
+ section h2 {
+    margin-bottom: 5px;
+    color: #333;
+  
+}
+.habilidades{
+    margin-left: 400px;
+    font-size: 30px;
+}
+
+/* Projetos */
+
+.projetos{
+    width: 100%;
+    height: 100%;
+    margin-left: 40%;
+
+}
+.pj{
+    margin-left: 400px;
+    font-size: 30px;
+
+}
+
+      
+      .fotos    {   
+        padding: 15px;
+        height: 250px;
+        width:  250px;
+       margin: 100px;
+       margin-left: -100px;
+      }
+
+      .centralizar{
+        display: flex;
+      }
+       #centralizar{
+        margin-left: 14%;
+        
+       }
+/* Contato */
+
+/* Rodapé */
+footer {
+    background-color: #333;
+    color: #fff;
+    width: 100%;
+    height: 40px;
+    display: flex;
+
+}
+
+
+#sobremim{
+    font-size: 30px;
+    margin-top: -200px;
+ margin-left: 250px;
+
+}
+
+.sobre{
+    margin-left: 400px;
+    height: 100%;
+    width: 90%;
+   
+}
+.eu{
+    font-size: 20px;
+   
+}
+.infotos{
+    height: 53%;
+    width: 53%;
+margin-left: 470px;
+font-size: 20px;
+margin-top: -50px;
+}
+
+.contantos{
+  
+     margin-left: 78%;
+  
+}
+.nome{
+    margin-top: -20px;
+}
+#lado{
+margin-left: -40px;
+}
